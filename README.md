@@ -3,7 +3,6 @@
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Lisp](https://img.shields.io/badge/-Lisp-3C0D04?logo=lisp&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -39,6 +38,5 @@ Here are some of the projects I've worked on and the skills I've used:
 ## 🌱 Contributions
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sedat-can&theme=dracula)
 
-## ✨ Quotes
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
